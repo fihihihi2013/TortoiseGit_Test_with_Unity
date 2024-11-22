@@ -8,6 +8,8 @@ public class HelloWorld : MonoBehaviour
     void Start()
     {
         Debug.Log("ぞし");
+        Debug.Log("ぞし");
+        Debug.Log("ぞし");
     }
 
     // Update is called once per frame
